@@ -4,3 +4,4 @@ if ready == 'yes':
     print("3...2...1...Start!")
 else:
     print("Come back when you are ready.")
+    print("Take your time.")
